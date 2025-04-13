@@ -9,7 +9,7 @@ This interactive Power BI dashboard provides a comprehensive analysis of Netflix
 ## 🔧 Tools Used
 
 - **Power BI** for data modeling and visualization  
-- **Power Query** for data transformation and cleaning  
+- **SQL** for data transformation and cleaning  
 - **DAX** for calculated measures and metrics  
 
 ## 📌 Key Insights
