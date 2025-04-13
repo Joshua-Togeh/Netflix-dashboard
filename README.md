@@ -1,6 +1,6 @@
 # 📺 Netflix Dashboard using Power BI
 
-![Netflix Dashboard](./netflix_dashboard_screenshot.jpg)
+![Netflix Dashboard](./netflix_dashboard.jpeg)
 
 ## 📊 Project Overview
 
