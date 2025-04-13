@@ -1,4 +1,3 @@
-```markdown
 # 📺 Netflix Dashboard using Power BI
 
 ![Netflix Dashboard](./netflix_dashboard_screenshot.jpg)
@@ -31,7 +30,7 @@ This interactive Power BI dashboard provides a comprehensive analysis of Netflix
 
 ## 📁 Files Included
 
-- `Netflix_Dashboard.pbix` – Power BI dashboard file *(if you're including it)*  
+- [`Netflix_Dashboard.pbix` – Download here]https://drive.google.com/drive/u/2/folders/17mUKIPAdlamwZ6oMy8yNjhgP32V7uITE
 - `netflix_dashboard_screenshot.jpg` – Dashboard screenshot  
 - `README.md` – Project description and insights  
 
