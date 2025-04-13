@@ -41,14 +41,6 @@ This interactive Power BI dashboard provides a comprehensive analysis of Netflix
 - Deriving actionable insights from streaming data  
 - Enhancing storytelling with data  
 
-## 🚀 How to Use
-
-If you have Power BI installed:
-
-1. Clone/download the repository  
-2. Open `Netflix_Dashboard.pbix`  
-3. Explore the visuals and interact with filters and slicers  
-
 ## 🤝 Let’s Connect
 
 If you have feedback or would like to collaborate, feel free to reach out!
