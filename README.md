@@ -30,7 +30,7 @@ This interactive Power BI dashboard provides a comprehensive analysis of Netflix
 ## 📁 Files Included
 
 - [`Netflix_Dashboard.pbix` – Download here]https://drive.google.com/drive/u/2/folders/17mUKIPAdlamwZ6oMy8yNjhgP32V7uITE
-- `netflix_dashboard_screenshot.jpg` – Dashboard screenshot  
+- `netflix_dashboard.jpeg` – Dashboard screenshot  
 - `README.md` – Project description and insights  
 
 ## 🧠 What I Learned
@@ -43,10 +43,9 @@ This interactive Power BI dashboard provides a comprehensive analysis of Netflix
 ## 🤝 Let’s Connect
 
 If you have feedback or would like to collaborate, feel free to reach out!
-
 - [LinkedIn – Togeh Joshua](https://www.linkedin.com/in/togeh-joshua-7196411b2)
 
 ---
 
 📌 *Don’t forget to give this repo a ⭐ if you found it helpful!*
-```
+
