@@ -15,7 +15,6 @@ This interactive Power BI dashboard provides a comprehensive analysis of Netflix
 ## 📌 Key Insights
 
 - Netflix offers **6,000+ movies** and **3,000+ TV shows**, spanning **749 locations** and **515 genres**.
-- A large portion (≈76%) of the dataset has **missing values** for country, director, or duration.
 - **July and December** see the highest rating activities — possibly due to seasonal breaks.
 - The **United States** leads with the highest volume of content and ratings (2.8K), followed by **India**.
 - The **majority of releases are post-2000**, reflecting Netflix’s evolution and original content surge.
